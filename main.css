@@ -1,0 +1,36 @@
+body{
+    background-image: url('images/casino.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    height: 95vh;
+    width: 45%;
+    background-image: url('images/bj.jpg');
+    
+
+}
+.head{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.bt{
+    margin-left: 35%;
+    margin-top: 300px;
+}
+button{
+    margin: 40px;
+    height: 70px;
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
