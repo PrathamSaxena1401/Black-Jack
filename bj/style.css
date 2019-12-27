@@ -1,0 +1,81 @@
+
+ *{
+     color: white;
+ }
+ body{
+        background-image: url('images/casino.jpg');
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+}
+
+.container{
+    height: 100%;
+    width: 1000px;
+    position: relative;
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    
+}
+#g1{
+    height: 500px;
+    width: 570px;
+    border: black 2px solid;
+    float: left;
+    background-color: rgb(3, 61, 3);
+    color: white;
+    
+}
+img{
+    height: 200px;
+    width: 140px;
+    padding: 10px;
+}
+#g2{
+    height: 500px;
+    height: 500px;
+    border: black 2px solid;
+    background-color: rgb(3, 61, 3);
+    color: white;
+}
+#g3{
+    border: black 2px solid;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(46, 25, 2);
+}
+.btns{
+   height: 80px;
+   width: 4000px;
+   position: absolute;
+   left: 35%;
+   margin-top: 20px;
+   
+
+}
+button{
+    height: 40px;
+    padding: 15px;
+    width: 90px;
+}
+
+.result{
+    height: 100px;
+    width: 200px;
+    margin-left: 43%;
+    margin-top: 40px;
+}
+.btns a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+.btns a:hover{
+    color: white;
+    text-decoration: none;
+}

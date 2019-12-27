@@ -1,0 +1,15 @@
+{
+  "name": "bj",
+  "version": "1.0.0",
+  "description": "black jack",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bj"
+  },
+  "author": "Pratham Saxena",
+  "license": "ISC",
+  "homepage": "https://PrathamSaxena1401.github.io/Black-Jack",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
